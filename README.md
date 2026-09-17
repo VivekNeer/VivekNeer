@@ -83,11 +83,11 @@ A technical walkthrough of DPI-based network filtering and deploying an end-to-e
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VivekNeer&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Vivek's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekNeer&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages">
+  <img src="https://komarev.com/ghpvc/?username=VivekNeer&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/VivekNeer?style=for-the-badge&logo=github&label=FOLLOWERS&color=0A66C2&labelColor=1a1a2e" alt="Followers">
 </p>
 
 <p align="center"><sub>Thanks for stopping by — explore the pinned repos below. 🚀</sub></p>
