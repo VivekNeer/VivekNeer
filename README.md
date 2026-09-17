@@ -90,8 +90,4 @@ A technical walkthrough of DPI-based network filtering and deploying an end-to-e
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekNeer&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekNeer&hide_border=true&theme=tokyonight" alt="GitHub streak">
-</p>
-
 <p align="center"><sub>Thanks for stopping by — explore the pinned repos below. 🚀</sub></p>
