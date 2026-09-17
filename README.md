@@ -1,23 +1,33 @@
 <h1 align="center">Hi, I'm Vivek Neeralagi 👋</h1>
 
 <p align="center">
-  <b>Computer Science Engineering student · building across ML, compilers, and full-stack systems</b><br>
-  <sub>Sahyadri College of Engineering & Management, Mangaluru · VTU (Batch of '27)</sub>
+  <b>Computer Science student — into Web Development, Open Source, and NLP.</b><br>
+  <sub>Design Lead @ <a href="https://github.com/so-sc">Sahyadri Open Source Community</a> · Sahyadri College of Engineering & Management, Mangaluru</sub>
 </p>
 
 <p align="center">
+  <a href="https://vivekneer.tech"><img src="https://img.shields.io/badge/Website-vivekneer.tech-6D28D9?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/vivek-neeralagi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:neeralagivivek@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/VivekNeer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Mangaluru,%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
 ---
 
 ### 🧠 About
 
-- 🔭 Currently working on **deep-learning models for adversarial network-traffic detection** and a **research compiler** studying optimization-pass ordering.
-- 🌱 Comfortable moving between **ML/DL, systems/compilers, data engineering, and full-stack web**.
-- 🏫 Active in the **Sahyadri Open Source Community (SOSC)**.
-- ⚡ I like projects that go end-to-end — from the research question to a deployed, working app.
+- 🎓 B.E. in Computer Science & Engineering at **Sahyadri College of Engineering & Management** (CGPA 8.85).
+- 🎨 **Design Lead** at the **Sahyadri Open Source Community (SOSC)** — leading UI/UX for community platforms, events, and branding.
+- 🔭 Currently building **deep-learning models for adversarial network-traffic detection**, a **research compiler**, and **NLP for low-resource Indian languages**.
+- 🌏 Represented SOSC at **IndiaFOSS 2025**, **MangaloreFOSS 2026**, and the **Singularity University Summit**.
+- 🗾 Learning Japanese — **JLPT / NAT-TEST N5** certified.
+
+---
+
+### 🌟 Open Source
+
+**[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** — *Commendation, FOSS Hack 2026* 🏆
+Found and fixed a bug where very large integers in JSON request bodies were silently rounded off. Shipped the fix across both the **web app and the CLI**, backed by full test coverage.
 
 ---
 
@@ -25,35 +35,38 @@
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**ML / Data**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-
-**Web / Frameworks**
+**Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Data / Infra**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-025E8C?style=flat-square)
+
+**Machine Learning / NLP**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-5C2D91?style=flat-square)
+
+**Cloud & Data**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 ---
 
@@ -61,12 +74,19 @@
 
 | Project | What it is |
 |---|---|
+| **[English → Tulu Translation](https://github.com/VivekNeer/LangTranslation)** | NLP for a low-resource Dravidian language — fine-tuned transformer translation, a digital Tulu dictionary, and an interactive web frontend, as part of a guided research team. |
 | **[ANTOD — Adversarial Traffic Detection](https://github.com/VivekNeer/Adversarial-Network-Traffic-Obfuscation-Detection)** | Deep-learning pipeline that flags malware hiding *how* it sends traffic (padding, jitter, tunnelling) past signature-based DPI. |
-| **[Compiler Phase-Ordering Study](https://github.com/VivekNeer/major-project-compiler-design)** | A full compiler for a C subset with 6 reorderable optimization passes, RISC-V backend, and a React explorer — benchmarking how pass order changes code quality. |
-| **[OpenMeter — Network Speed Monitor](https://github.com/VivekNeer/OpenMeter)** | Lightweight, always-on-top Windows overlay showing live download/upload speeds — built in C# / .NET with Windows Forms. |
-| **[English → Tulu Translation](https://github.com/VivekNeer/LangTranslation)** | Neural machine translation fine-tuning IndicTrans2 with LoRA, served through a Flask web app. |
+| **[Compiler Phase-Ordering Study](https://github.com/VivekNeer/major-project-compiler-design)** | A full compiler for a C subset with 6 reorderable optimization passes and a RISC-V backend — benchmarking how pass order changes code quality. |
 | **[Dev Portfolio Evaluator](https://github.com/VivekNeer/dev-portfolio-evaluator)** | Full-stack MERN app that analyses any public GitHub profile and scores activity, code quality, and hiring readiness. |
 | **[DormDesk](https://github.com/VivekNeer/DormDesk)** | Production-deployed hostel complaint system — React + Node + MySQL on AWS EC2/RDS, containerised behind Nginx. |
+| **[OpenMeter](https://github.com/VivekNeer/OpenMeter)** | Lightweight, always-on-top Windows overlay showing live network speeds — built in C# / .NET. |
+
+---
+
+### ✍️ Writing
+
+**How to Bypass Your Network Firewall When VPN Gets Blocked (Shadowsocks + VPS)** — *1,900+ impressions on Medium.*
+A technical walkthrough of DPI-based network filtering and deploying an end-to-end Shadowsocks proxy on a VPS.
 
 ---
 
@@ -81,4 +101,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekNeer&hide_border=true&theme=tokyonight" alt="GitHub streak">
 </p>
 
-<p align="center"><sub>Thanks for stopping by — feel free to explore the pinned repos below.</sub></p>
+<p align="center"><sub>Thanks for stopping by — explore the pinned repos below. 🚀</sub></p>
