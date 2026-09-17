@@ -24,13 +24,6 @@
 
 ---
 
-### 🌟 Open Source
-
-**[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** — *Commendation, FOSS Hack 2026* 🏆
-Found and fixed a bug where very large integers in JSON request bodies were silently rounded off. Shipped the fix across both the **web app and the CLI**, backed by full test coverage.
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
