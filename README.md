@@ -63,7 +63,7 @@
 |---|---|
 | **[ANTOD — Adversarial Traffic Detection](https://github.com/VivekNeer/Adversarial-Network-Traffic-Obfuscation-Detection)** | Deep-learning pipeline that flags malware hiding *how* it sends traffic (padding, jitter, tunnelling) past signature-based DPI. |
 | **[Compiler Phase-Ordering Study](https://github.com/VivekNeer/major-project-compiler-design)** | A full compiler for a C subset with 6 reorderable optimization passes, RISC-V backend, and a React explorer — benchmarking how pass order changes code quality. |
-| **[Veritas — Medical Claims Pipeline](https://github.com/VivekNeer/veritas)** | Ingestion + standardisation pipeline turning heterogeneous clinical JSON into canonical BigQuery records, with an ops UI. |
+| **[OpenMeter — Network Speed Monitor](https://github.com/VivekNeer/OpenMeter)** | Lightweight, always-on-top Windows overlay showing live download/upload speeds — built in C# / .NET with Windows Forms. |
 | **[English → Tulu Translation](https://github.com/VivekNeer/LangTranslation)** | Neural machine translation fine-tuning IndicTrans2 with LoRA, served through a Flask web app. |
 | **[Dev Portfolio Evaluator](https://github.com/VivekNeer/dev-portfolio-evaluator)** | Full-stack MERN app that analyses any public GitHub profile and scores activity, code quality, and hiring readiness. |
 | **[DormDesk](https://github.com/VivekNeer/DormDesk)** | Production-deployed hostel complaint system — React + Node + MySQL on AWS EC2/RDS, containerised behind Nginx. |
